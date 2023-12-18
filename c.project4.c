@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<string.h>
-//Kullanıcın girdiği yazıyı ekrana yazdıran kodu fonksiyonla yazma ve yazının uzunluğunu yazdırma
+//Writing the code that prints the text entered by the user on the screen with a function and printing the length of the text
 int main(){
 char array[100];
 printf("please write a text\n");
