@@ -1,5 +1,5 @@
 #include<stdio.h>
-//Girilen sayı asal sayı olup olmadığını yazan kod
+//find the number is a prime number or not by the user entered
 int main(){
     int number;
     printf("please enter a number\n");

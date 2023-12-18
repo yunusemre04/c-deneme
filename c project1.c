@@ -1,4 +1,4 @@
-//kullanıcı tarafından alınan 5 sayının ortalamasını bulan kod
+//find the average of five numbers entered by the user
 #include<stdio.h>
 int main(){
     float total,number;
