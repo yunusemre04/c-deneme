@@ -3,11 +3,11 @@
 
 int main(){
     int es,temp;
-    printf("dizi eleman sayısını seçin\n");
+    printf("select number of array's elements\n");
     scanf("%d",&es);
     int array[es];
 for (int  i = 0; i < es; i++)
-{ printf("%d.elemanını değerini secın : ",i+1);
+{ printf("Select the value of the %d. element: ",i+1);
     scanf("%d",&array[i]);
 }
  for (int j= 0; j<es-1; j++)
