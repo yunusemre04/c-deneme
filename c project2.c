@@ -1,5 +1,5 @@
 #include<stdio.h>
-//find the number is a prime number or not by the user entered
+//find the number is a prime number or not by user entered
 int main(){
     int number;
     printf("please enter a number\n");

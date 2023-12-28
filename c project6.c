@@ -1,5 +1,5 @@
 #include<stdio.h>
-/*find odd or even numbers until integer n by the user entered and split odd numbers and even numbers 
+/*find odd or even numbers until integer n by user entered and split odd numbers and even numbers 
 and keep them different array then print on the screen.*/
 int main(){
     int n,ts=0,cs=0;

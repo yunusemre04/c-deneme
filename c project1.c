@@ -1,4 +1,4 @@
-//find the average of five numbers entered by the user
+//find the average of five numbers entered by users entered
 #include<stdio.h>
 int main(){
     float total,number;

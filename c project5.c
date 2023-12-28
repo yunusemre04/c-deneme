@@ -1,5 +1,5 @@
 #include<stdio.h>
-//code that sorts the elements in the array by the users entered
+//code that sorts the elements in the array by users entered
 
 int main(){
     int es,temp;
